@@ -27,7 +27,6 @@ module.exports = {
       {
         js: 'never',
         ts: 'never',
-        vue: 'never',
         tsx: 'never'
       }
     ]
